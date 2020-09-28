@@ -1,0 +1,10 @@
+Game Rules: 
+The game has 2 players 
+each player has a dice and can roll as many times as they wish on their turn 
+the sum of the dice rolls in any given round is added to the overall total 
+***but***
+if the player rolls a 1 it becomes the other players turn and their round total is removed
+the player can chose to hold and bank the round total if they do not wish to take more risk, 
+after which it is the next players turn. 
+
+First to reach 100 overall wins the game 
